@@ -39,7 +39,7 @@ Make sure there is index.html file as the default view since firebase will look 
 ```
 firebase deploy
 ```
-
+### Your are now finished you can visist your account and see the link for your static website
 
 
 
